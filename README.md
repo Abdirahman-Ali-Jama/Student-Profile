@@ -1,2 +1,7 @@
 # Student-Profile
-abdirahman ali
+ name : abdirahman ali jama
+
+ skill : fornt end dev, graphic desinger 
+
+ goal : fullstack dev . 
+
